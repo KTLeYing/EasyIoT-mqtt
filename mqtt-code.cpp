@@ -20,7 +20,7 @@ void setup() {
 	myIot.setMqttCallback(msgHandles);
 	display.setCursorLine(1);
 	display.printLine("程序开始");
-	myIot.wifiConnect("MEIZU 16th", "mazhenle520");
+	myIot.wifiConnect("", "");
 	while (!myIot.wifiStatus()) {yield();}
 	rgb.write(0, 0x0000FF);
 	display.setCursorLine(2);
