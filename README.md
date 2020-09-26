@@ -37,5 +37,8 @@ Easy IoT实现mqtt的实验代码
 ![百度](https://img-blog.csdnimg.cn/20200926142007847.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzU0ODMxMA==,size_16,color_FFFFFF,t_70#pic_center "百度一下，你就知道")  
 （5）在Easy loT平台设备上查看到的通信消息详情截图：  
 ![百度](https://img-blog.csdnimg.cn/20200926142025667.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzU0ODMxMA==,size_16,color_FFFFFF,t_70#pic_center "百度一下，你就知道")
+  
+**_该实验可能处在一些不足，若发现问题，欢迎大家指出，谢谢！_**
+
 
 
