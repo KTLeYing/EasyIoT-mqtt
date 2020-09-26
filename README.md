@@ -3,24 +3,24 @@ Easy IoT实现mqtt的实验代码
 
 博客地址：https://blog.csdn.net/weixin_43548310/article/details/108811955
 
-这是物联网课上老师让我们做的一个Easy IoT实现mqtt的实验
-
-一、实验目的及要求  
+这是物联网课上老师让我们做的一个Easy IoT实现mqtt的实验  
+ 
+一、实验目的及要求    
 【实验一】实现Easy IoT配置。  
 【实验二】实现Easy IoT上mqtt消息的通讯。
 
-二、实验原理与内容
+二、实验原理与内容  
 实现mind+下Easy IoT上mqtt消息的通讯。
 
-三、实验软硬件环境
+三、实验软硬件环境  
 硬件：掌控板
 软件：Mind+
 辅助平台：Easy IoT
 
-四、Easy IoT平台上的注册与使用  
+四、Easy IoT平台上的注册与使用    
    &nbsp;&nbsp;&nbsp;请参考我的博客！  
   
-五、Mind+上的配置与操作步骤  
+五、Mind+上的配置与操作步骤    
     &nbsp;&nbsp;&nbsp;请参考我的博客！  
   
 六、代码展示  
